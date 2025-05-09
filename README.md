@@ -18,7 +18,6 @@ The project is in early development.
 
 * Gameplay mechanics
 * Sound and music
-* Menus, scoring, player input
 
 This is **not a complete game**, just a working prototype.
 
